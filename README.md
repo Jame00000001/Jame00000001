@@ -111,6 +111,12 @@ I enjoy solving algorithmic problems, understanding intelligent systems, and tur
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Box%20Plot-Visualization-2563EB?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Violin%20Plot-Visualization-7C3AED?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Heatmap-Visualization-0F766E?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -120,21 +126,7 @@ I enjoy solving algorithmic problems, understanding intelligent systems, and tur
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" />
   <img src="https://img.shields.io/badge/LightGBM-00A86B?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=python&logoColor=black" />
-</p>
-
----
-
-### Data Analysis Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Box%20Plot-Visualization-2563EB?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Violin%20Plot-Visualization-7C3AED?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Heatmap-Visualization-0F766E?style=for-the-badge&logo=plotly&logoColor=white" />
+  
 </p>
 
 ---
@@ -222,7 +214,7 @@ I enjoy solving algorithmic problems, understanding intelligent systems, and tur
     <td width="33%" align="center">
       <h3>🎤 Poster Presentation</h3>
       <p>
-        Participated in a <b>research poster presentation</b> at university.
+        Participated in a <b>research poster presentation</b> at Daffodil International university.
       </p>
     </td>
     <td width="33%" align="center">
@@ -424,16 +416,6 @@ I enjoy solving algorithmic problems, understanding intelligent systems, and tur
 
 ---
 
-## Snake Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Jame00000001/Jame00000001/output/snake.svg" alt="Snake Contribution Animation" />
-
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
@@ -446,8 +428,8 @@ I enjoy solving algorithmic problems, understanding intelligent systems, and tur
   <img src="https://img.shields.io/badge/LinkedIn-Mobassher%20Hossain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Email-Placeholder-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:mdjame34@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mdjame34%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
