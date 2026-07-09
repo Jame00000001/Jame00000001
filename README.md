@@ -336,25 +336,24 @@ I enjoy solving algorithmic problems, learning how intelligent systems work, and
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jame00000001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=14" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Jame00000001&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub Streak" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jame00000001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jame00000001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jame00000001&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" alt="Top Languages" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jame00000001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
-
 ---
 
 ## GitHub Trophy
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Jame00000001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophy" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Jame00000001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophy" />
 
 </div>
-
 ---
 
 ## Activity Graph
