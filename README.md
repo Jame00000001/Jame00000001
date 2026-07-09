@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;Machine+Learning+%26+AI+Enthusiast;Competitive+Programming+Practitioner;Building+Real-world+AI+Systems;Continuous+Learner+%26+Problem+Solver" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Jame00000001&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Country-Bangladesh-16A34A?style=for-the-badge" alt="Bangladesh" />
@@ -22,9 +22,9 @@
 
 I am **Mobassher Hossain Jame**, a **Software Engineering student at Daffodil International University, Bangladesh**, currently in my **3rd Year**.
 
-My work and learning focus on **Machine Learning, Artificial Intelligence, Problem Solving, Competitive Programming, and Software Engineering**. I am building a strong foundation in core computer science while gradually moving toward real-world AI systems, including **RAG-based applications, LLM-powered systems, NLP, deep learning, and AI-driven software products**.
+My learning and work focus on **Machine Learning, Artificial Intelligence, Problem Solving, Competitive Programming, and Software Engineering**. I am building a strong foundation in core computer science while moving toward real-world AI systems, including **RAG-based applications, LLM-powered systems, NLP, Deep Learning, and AI-driven software products**.
 
-I enjoy solving algorithmic problems, learning how intelligent systems work, and turning technical ideas into useful software.
+I enjoy solving algorithmic problems, understanding intelligent systems, and turning technical ideas into useful software.
 
 ---
 
@@ -55,12 +55,12 @@ I enjoy solving algorithmic problems, learning how intelligent systems work, and
 
 <div align="center">
 
-| Short-Term Focus                                               | Long-Term Direction                                            |
-| -------------------------------------------------------------- | -------------------------------------------------------------- |
+| Short-Term Focus | Long-Term Direction |
+|---|---|
 | Strengthen DSA, OOP, ML, and Software Engineering fundamentals | Become a world-class Machine Learning Engineer and AI Engineer |
-| Build real-world AI projects                                   | Work with Deep Learning, NLP, LLMs, RAG, and AI Agents         |
-| Practice Competitive Programming                               | Contribute to Open Source and AI research                      |
-| Learn modern engineering tools                                 | Build scalable AI-powered software systems                     |
+| Build real-world AI projects | Work with Deep Learning, NLP, LLMs, RAG, and AI Agents |
+| Practice Competitive Programming | Contribute to Open Source and AI research |
+| Learn modern engineering tools | Build scalable AI-powered software systems |
 
 </div>
 
@@ -72,7 +72,7 @@ I enjoy solving algorithmic problems, learning how intelligent systems work, and
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
-  <br/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
@@ -124,6 +124,21 @@ I enjoy solving algorithmic problems, learning how intelligent systems work, and
 
 ---
 
+### Data Analysis Libraries
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Box%20Plot-Visualization-2563EB?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Violin%20Plot-Visualization-7C3AED?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Heatmap-Visualization-0F766E?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+---
+
 ### Backend
 
 <p align="center">
@@ -144,7 +159,7 @@ I enjoy solving algorithmic problems, learning how intelligent systems work, and
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-  <br/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
 </p>
@@ -155,12 +170,12 @@ I enjoy solving algorithmic problems, learning how intelligent systems work, and
 
 <div align="center">
 
-| AI & Data        | Engineering          | Future Systems      |
-| ---------------- | -------------------- | ------------------- |
-| Machine Learning | Software Engineering | AI Agents           |
-| Deep Learning    | Cloud Computing      | MLOps               |
-| NLP              | Data Science         | LLM Applications    |
-| RAG              | Backend Engineering  | Scalable AI Systems |
+| AI & Data | Engineering | Future Systems |
+|---|---|---|
+| Machine Learning | Software Engineering | AI Agents |
+| Deep Learning | Cloud Computing | MLOps |
+| NLP | Data Science | LLM Applications |
+| RAG | Backend Engineering | Scalable AI Systems |
 
 </div>
 
@@ -336,24 +351,32 @@ I enjoy solving algorithmic problems, learning how intelligent systems work, and
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jame00000001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jame00000001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Jame00000001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jame00000001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jame00000001&theme=tokyonight" alt="Profile Details" />
 
 </div>
+
 ---
 
-## GitHub Trophy
+## Profile Summary 
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Jame00000001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophy" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jame00000001&theme=tokyonight" alt="Repos Per Language" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jame00000001&theme=tokyonight" alt="Most Commit Language" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jame00000001&theme=tokyonight" alt="GitHub Stats Summary" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jame00000001&theme=tokyonight&utcOffset=6" alt="Productive Time" />
 
 </div>
+
 ---
 
 ## Activity Graph
@@ -366,31 +389,36 @@ I enjoy solving algorithmic problems, learning how intelligent systems work, and
 
 ---
 
-## Profile Summary Cards
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jame00000001&theme=tokyonight" alt="Repos Per Language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jame00000001&theme=tokyonight" alt="Most Commit Language" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jame00000001&theme=tokyonight" alt="Stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jame00000001&theme=tokyonight&utcOffset=6" alt="Productive Time" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jame00000001&theme=tokyonight" alt="Profile Details" />
-
-</div>
-
----
-
 ## Contribution Graph
 
 <div align="center">
 
 <img width="100%" src="https://ghchart.rshah.org/2563EB/Jame00000001" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## GitHub Highlights
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🏆 AI Contest</h3>
+      <p><b>4th Place</b><br/>Artificial Intelligence Consequent 2025</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎤 Research</h3>
+      <p><b>Poster Presentation</b><br/>University Research Poster Session</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🏅 Codeforces</h3>
+      <p><b>Rating: 584</b><br/>Active Competitive Programming Practice</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -410,12 +438,14 @@ I enjoy solving algorithmic problems, learning how intelligent systems work, and
 
 <div align="center">
 
-<a href="#">
-  <img src="https://img.shields.io/badge/GitHub-Placeholder-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Jame00000001">
+  <img src="https://img.shields.io/badge/GitHub-Jame00000001-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-Placeholder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<a href="https://www.linkedin.com/in/mobassherhossain" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Mobassher%20Hossain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="#">
   <img src="https://img.shields.io/badge/Email-Placeholder-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -426,10 +456,10 @@ I enjoy solving algorithmic problems, learning how intelligent systems work, and
 
 ## Fun Facts
 
-* I enjoy solving problems that improve both my coding logic and engineering mindset.
-* I am interested in how AI systems can support real people through practical software.
-* I like learning concepts deeply before using them in projects.
-* I believe strong fundamentals make advanced AI engineering easier and more reliable.
+- I enjoy solving problems that improve both my coding logic and engineering mindset.
+- I am interested in how AI systems can support real people through practical software.
+- I like learning concepts deeply before using them in projects.
+- I believe strong fundamentals make advanced AI engineering easier and more reliable.
 
 ---
 
