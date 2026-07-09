@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=MobassherHossainJame&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Jame00000001&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Country-Bangladesh-16A34A?style=for-the-badge" alt="Bangladesh" />
 <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Software%20Engineering-7C3AED?style=for-the-badge" alt="Focus" />
 
@@ -201,7 +201,7 @@ I enjoy solving algorithmic problems, learning how intelligent systems work, and
     <td width="33%" align="center">
       <h3>🏆 4th Place</h3>
       <p>
-        Secured <b>4th place</b> in <b>Artificial Intelligence Consequent 2025</b> at <b>Bangladesh University of Professionals</b>.
+        Secured <b>4th place</b> in <b>Artificial Intelligence Consequent 2025</b> at <b>Bangladesh University of Business and Technology</b>.
       </p>
     </td>
     <td width="33%" align="center">
@@ -336,12 +336,12 @@ I enjoy solving algorithmic problems, learning how intelligent systems work, and
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MobassherHossainJame&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=14" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=MobassherHossainJame&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jame00000001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=14" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Jame00000001&theme=tokyonight&hide_border=true&border_radius=14" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobassherHossainJame&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" alt="Top Languages" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jame00000001&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" alt="Top Languages" />
 
 </div>
 
@@ -351,7 +351,7 @@ I enjoy solving algorithmic problems, learning how intelligent systems work, and
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=MobassherHossainJame&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophy" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Jame00000001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophy" />
 
 </div>
 
@@ -361,7 +361,7 @@ I enjoy solving algorithmic problems, learning how intelligent systems work, and
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MobassherHossainJame&theme=tokyo-night&hide_border=true&radius=14" alt="GitHub Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jame00000001&theme=tokyo-night&hide_border=true&radius=14" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -371,17 +371,17 @@ I enjoy solving algorithmic problems, learning how intelligent systems work, and
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MobassherHossainJame&theme=tokyonight" alt="Repos Per Language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MobassherHossainJame&theme=tokyonight" alt="Most Commit Language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jame00000001&theme=tokyonight" alt="Repos Per Language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jame00000001&theme=tokyonight" alt="Most Commit Language" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MobassherHossainJame&theme=tokyonight" alt="Stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MobassherHossainJame&theme=tokyonight&utcOffset=6" alt="Productive Time" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jame00000001&theme=tokyonight" alt="Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jame00000001&theme=tokyonight&utcOffset=6" alt="Productive Time" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MobassherHossainJame&theme=tokyonight" alt="Profile Details" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jame00000001&theme=tokyonight" alt="Profile Details" />
 
 </div>
 
@@ -391,7 +391,7 @@ I enjoy solving algorithmic problems, learning how intelligent systems work, and
 
 <div align="center">
 
-<img width="100%" src="https://ghchart.rshah.org/2563EB/MobassherHossainJame" alt="Contribution Graph" />
+<img width="100%" src="https://ghchart.rshah.org/2563EB/Jame00000001" alt="Contribution Graph" />
 
 </div>
 
@@ -401,7 +401,7 @@ I enjoy solving algorithmic problems, learning how intelligent systems work, and
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MobassherHossainJame/MobassherHossainJame/output/snake.svg" alt="Snake Contribution Animation" />
+<img src="https://raw.githubusercontent.com/Jame00000001/Jame00000001/output/snake.svg" alt="Snake Contribution Animation" />
 
 </div>
 
