@@ -381,16 +381,6 @@ I enjoy solving algorithmic problems, understanding intelligent systems, and tur
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://ghchart.rshah.org/2563EB/Jame00000001" alt="Contribution Graph" />
-
-</div>
-
----
-
 ## GitHub Highlights
 
 <div align="center">
@@ -399,15 +389,15 @@ I enjoy solving algorithmic problems, understanding intelligent systems, and tur
   <tr>
     <td align="center" width="33%">
       <h3>🏆 AI Contest</h3>
-      <p><b>4th Place</b><br/>Artificial Intelligence Consequent 2025</p>
+      <p><b>4th Place</b><br/>Artificial Intelligence Consequent 2025 at Bangladesh University of Business & Technology</p>
     </td>
     <td align="center" width="33%">
       <h3>🎤 Research</h3>
-      <p><b>Poster Presentation</b><br/>University Research Poster Session</p>
+      <p><b>Poster Presentation</b><br/>at Daffodil International University</p>
     </td>
     <td align="center" width="33%">
       <h3>🏅 Codeforces</h3>
-      <p><b>Rating: 584</b><br/>Active Competitive Programming Practice</p>
+      <p><b>Rating: 584</b><br/></p>
     </td>
   </tr>
 </table>
